@@ -1,0 +1,3 @@
+// Trick: Clear Decals v1.0
+// Description: On "Z" press, decals are removed, so you can clearly see the enemy.
+bind z "r_cleardecals"
