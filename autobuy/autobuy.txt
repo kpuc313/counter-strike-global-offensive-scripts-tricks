@@ -1,0 +1,30 @@
+// Directory: "\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\"
+// This is clean, customized and sorted by categories AutoBuy list. Check "autobuyinfo.txt" for more information.
+
+// Rifles
+m4a1
+m4a1_silencer
+famas
+ak47
+galilar
+
+// SMGs
+p90
+mp7
+ump45
+mac10
+
+// Pistols
+p250
+deagle
+
+// Grenades
+smokegrenade
+flashbang
+molotov
+hegrenade
+
+// Armor and Defuser
+vesthelm
+vest
+defuser
